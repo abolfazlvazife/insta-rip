@@ -5,7 +5,7 @@ print("""By :@Avazife . telegram.
  
                                      """)
 print("--------------------------")
-print("Follow me instagram vazife.dev ")
+print("Follow me instagram avazife.it ")
 print("--------------------------")                                     
  
 from time import sleep
